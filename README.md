@@ -1,6 +1,6 @@
 <h1 align="center">VegaVerse: Netflix Clone</h1>
 
-<p>VegaVerse is an immersive video streaming platform that replicates the seamless experience of Netflix with a vast library of movies, series, and documentaries. Built using a state-of-the-art tech stack, StreamHub offers users a smooth and personalized viewing experience, complete with secure authentication, dynamic content delivery, and efficient video streaming. Scalable and intuitive, StreamHub allows users to discover and enjoy content across all devices effortlessly.</p>
+<p>VegaVerse is an immersive video streaming platform that replicates the seamless experience of Netflix with a vast library of movies, series, and documentaries. Built using a state-of-the-art tech stack, VegaVerse offers users a smooth and personalized viewing experience, complete with secure authentication, dynamic content delivery, and efficient video streaming. Scalable and intuitive, VegaVerse allows users to discover and enjoy content across all devices effortlessly.</p>
 
 <h2 id="features">Features and Tech Stack</h2>
 <ul>
